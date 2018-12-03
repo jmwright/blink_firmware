@@ -1,0 +1,9 @@
+{
+  "name": "blink_firmware",
+  "version": "1.0.0",
+  "description": "Sliderule DOF component.",
+  "license": "(Unlicense AND CC0-1.0)",
+  "dependencies": {
+  }
+}
+
